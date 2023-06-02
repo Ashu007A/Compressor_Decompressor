@@ -9,11 +9,15 @@ ActionListener: The class implements the ActionListener interface, which is part
 
 JFileChooser: It is a Swing component used to display a dialog box that allows the user to choose a file or directory. In this code, it is used to select files for compression and decompression.
 
+JButton: The code uses the JButton class from Swing to create buttons for compressing and decompressing files.
+
 Java File API: The code uses the File class from the Java File API to work with files and directories. It is used to represent the selected file for compression and decompression.
 
 JOptionPane: It is a Swing class used to display dialog boxes for showing messages or gathering user input. In this code, it is used to show error messages if an exception occurs during compression or decompression.
 
 Java IO: The code interacts with the file system using the Java IO classes. The compressor.method(file) method, which is not shown in the provided code snippet, likely performs file compression using IO operations.
+
+comp_decomp.compressor: The code imports and uses a custom class or package named "comp_decomp.compressor" that contains a method for compressing and decompressing files.
 
 GZIPOutputStream: The code uses the GZIPOutputStream class from java.util.zip package, which provides a stream for compressing data into a GZIP file format.
 
