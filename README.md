@@ -1,4 +1,4 @@
-# Compressor_Decompressor
+# Technologies used
 The code provided is written in Java and uses several technologies and libraries. Here's a breakdown of the technologies used:
 
 Java AWT (Abstract Window Toolkit): This is the primary technology used for creating the graphical user interface (GUI) components, such as JFrame, JButton, and JFileChooser.
