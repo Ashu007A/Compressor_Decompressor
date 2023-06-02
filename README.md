@@ -15,6 +15,10 @@ JOptionPane: It is a Swing class used to display dialog boxes for showing messag
 
 Java IO: The code interacts with the file system using the Java IO classes. The compressor.method(file) method, which is not shown in the provided code snippet, likely performs file compression using IO operations.
 
+GZIPOutputStream: The code uses the GZIPOutputStream class from java.util.zip package, which provides a stream for compressing data into a GZIP file format.
+
+File: The code uses the File class from the java.io package to represent and manipulate file objects. It is used to specify the file path for compression and to retrieve the parent directory of the file.
+
 Overall, the code combines various Java technologies, including AWT, Swing, Java File API, and Java IO, to create a simple GUI application for file compression and decompression.
 
 
